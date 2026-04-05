@@ -1,0 +1,13 @@
+{
+  "@@locale": "sk",
+  "appTitle": "Viacjazyčná Aplikácia",
+  "welcome": "Vitajte!",
+  "hello": "Ahoj {name}!",
+  "itemCount": "{count} položiek",
+  "selectLanguage": "Vybrať Jazyk",
+  "changeLanguage": "Zmeniť Jazyk",
+  "currentLanguage": "Aktuálny Jazyk: {language}",
+  "translate": "Preložiť",
+  "autoTranslate": "Automatický Preklad",
+  "enterText": "Zadajte text na preklad"
+}

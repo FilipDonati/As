@@ -1,0 +1,13 @@
+{
+  "@@locale": "hr",
+  "appTitle": "Višejezična Aplikacija",
+  "welcome": "Dobrodošli!",
+  "hello": "Zdravo {name}!",
+  "itemCount": "{count} stavki",
+  "selectLanguage": "Odaberi Jezik",
+  "changeLanguage": "Promijeni Jezik",
+  "currentLanguage": "Trenutni Jezik: {language}",
+  "translate": "Prevedi",
+  "autoTranslate": "Automatski Prijevod",
+  "enterText": "Unesite tekst za prijevod"
+}

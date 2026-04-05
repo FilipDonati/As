@@ -1,0 +1,13 @@
+{
+  "@@locale": "et",
+  "appTitle": "Mitmekeelseline Rakendus",
+  "welcome": "Tere tulemast!",
+  "hello": "Tere {name}!",
+  "itemCount": "{count} elementi",
+  "selectLanguage": "Valige Keel",
+  "changeLanguage": "Muuda Keelet",
+  "currentLanguage": "Praegune Keel: {language}",
+  "translate": "Tõlgi",
+  "autoTranslate": "Automaatne Tõlge",
+  "enterText": "Sisestage tõlgitav tekst"
+}

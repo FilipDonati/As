@@ -1,0 +1,13 @@
+{
+  "@@locale": "mt",
+  "appTitle": "App Multilingwi",
+  "welcome": "Merkbha!",
+  "hello": "Bongu {name}!",
+  "itemCount": "{count} oġġetti",
+  "selectLanguage": "Agħżel Lingwa",
+  "changeLanguage": "Biddel Lingwa",
+  "currentLanguage": "Lingwa Attwali: {language}",
+  "translate": "Traduci",
+  "autoTranslate": "Traduzzjoni Awtomata",
+  "enterText": "Daħħal test għat-traduzzjoni"
+}

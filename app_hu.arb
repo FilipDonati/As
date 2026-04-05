@@ -1,0 +1,13 @@
+{
+  "@@locale": "hu",
+  "appTitle": "Többnyelvű Alkalmazás",
+  "welcome": "Üdvözöljük!",
+  "hello": "Szia {name}!",
+  "itemCount": "{count} elem",
+  "selectLanguage": "Nyelv Kiválasztása",
+  "changeLanguage": "Nyelv Váltása",
+  "currentLanguage": "Jelenlegi Nyelv: {language}",
+  "translate": "Fordítás",
+  "autoTranslate": "Automatikus Fordítás",
+  "enterText": "Írja be a fordítandó szöveget"
+}

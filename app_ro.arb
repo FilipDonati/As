@@ -1,0 +1,13 @@
+{
+  "@@locale": "ro",
+  "appTitle": "Aplicație Multilingvă",
+  "welcome": "Bine ați venit!",
+  "hello": "Salut {name}!",
+  "itemCount": "{count} elemente",
+  "selectLanguage": "Selectați Limba",
+  "changeLanguage": "Schimbați Limba",
+  "currentLanguage": "Limba Curentă: {language}",
+  "translate": "Traduce",
+  "autoTranslate": "Traducere Automată",
+  "enterText": "Introduceți textul de tradus"
+}

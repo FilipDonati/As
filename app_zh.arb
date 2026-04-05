@@ -1,0 +1,13 @@
+{
+  "@@locale": "zh",
+  "appTitle": "多语言应用",
+  "welcome": "欢迎！",
+  "hello": "你好 {name}！",
+  "itemCount": "{count} 个项目",
+  "selectLanguage": "选择语言",
+  "changeLanguage": "更改语言",
+  "currentLanguage": "当前语言: {language}",
+  "translate": "翻译",
+  "autoTranslate": "自动翻译",
+  "enterText": "输入要翻译的文本"
+}

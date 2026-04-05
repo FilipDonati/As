@@ -1,0 +1,13 @@
+{
+  "@@locale": "es",
+  "appTitle": "App Multilingüe",
+  "welcome": "¡Bienvenido!",
+  "hello": "¡Hola {name}!",
+  "itemCount": "{count} elementos",
+  "selectLanguage": "Seleccionar Idioma",
+  "changeLanguage": "Cambiar Idioma",
+  "currentLanguage": "Idioma Actual: {language}",
+  "translate": "Traducir",
+  "autoTranslate": "Traducción Automática",
+  "enterText": "Introduce el texto a traducir"
+}

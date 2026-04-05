@@ -1,0 +1,13 @@
+{
+  "@@locale": "nl",
+  "appTitle": "Meertalige App",
+  "welcome": "Welkom!",
+  "hello": "Hallo {name}!",
+  "itemCount": "{count} items",
+  "selectLanguage": "Taal Selecteren",
+  "changeLanguage": "Taal Wijzigen",
+  "currentLanguage": "Huidige Taal: {language}",
+  "translate": "Vertalen",
+  "autoTranslate": "Automatisch Vertalen",
+  "enterText": "Voer tekst in om te vertalen"
+}

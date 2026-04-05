@@ -1,0 +1,13 @@
+{
+  "@@locale": "sv",
+  "appTitle": "Flerspråkig App",
+  "welcome": "Välkommen!",
+  "hello": "Hej {name}!",
+  "itemCount": "{count} objekt",
+  "selectLanguage": "Välj Språk",
+  "changeLanguage": "Byt Språk",
+  "currentLanguage": "Nuvarande Språk: {language}",
+  "translate": "Översätt",
+  "autoTranslate": "Automatisk Översättning",
+  "enterText": "Skriv in text att översätta"
+}

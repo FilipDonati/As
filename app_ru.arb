@@ -1,0 +1,13 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Многоязычное Приложение",
+  "welcome": "Добро пожаловать!",
+  "hello": "Привет {name}!",
+  "itemCount": "{count} элементов",
+  "selectLanguage": "Выбрать Язык",
+  "changeLanguage": "Сменить Язык",
+  "currentLanguage": "Текущий Язык: {language}",
+  "translate": "Перевести",
+  "autoTranslate": "Автоперевод",
+  "enterText": "Введите текст для перевода"
+}

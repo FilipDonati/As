@@ -1,0 +1,13 @@
+{
+  "@@locale": "fi",
+  "appTitle": "Monikielinen Sovellus",
+  "welcome": "Tervetuloa!",
+  "hello": "Hei {name}!",
+  "itemCount": "{count} kohdetta",
+  "selectLanguage": "Valitse Kieli",
+  "changeLanguage": "Vaihda Kieltä",
+  "currentLanguage": "Nykyinen Kieli: {language}",
+  "translate": "Käännä",
+  "autoTranslate": "Automaattinen Käännös",
+  "enterText": "Kirjoita käännettävä teksti"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "da",
+  "appTitle": "Flersproget App",
+  "welcome": "Velkommen!",
+  "hello": "Hej {name}!",
+  "itemCount": "{count} elementer",
+  "selectLanguage": "Vælg Sprog",
+  "changeLanguage": "Skift Sprog",
+  "currentLanguage": "Nuværende Sprog: {language}",
+  "translate": "Oversæt",
+  "autoTranslate": "Automatisk Oversættelse",
+  "enterText": "Indtast tekst til oversættelse"
+}

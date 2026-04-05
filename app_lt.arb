@@ -1,0 +1,13 @@
+{
+  "@@locale": "lt",
+  "appTitle": "Daugiakalbė Programėlė",
+  "welcome": "Sveiki!",
+  "hello": "Sveiki {name}!",
+  "itemCount": "{count} elementai",
+  "selectLanguage": "Pasirinkite kalbą",
+  "changeLanguage": "Pakeisti kalbą",
+  "currentLanguage": "Dabartinė kalba: {language}",
+  "translate": "Vertimas",
+  "autoTranslate": "Automatinis vertimas",
+  "enterText": "Įveskite verčiamą tekstą"
+}

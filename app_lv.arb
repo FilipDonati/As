@@ -1,0 +1,13 @@
+{
+  "@@locale": "lv",
+  "appTitle": "Vairākvalodu Lietotne",
+  "welcome": "Laipni lūdzam!",
+  "hello": "Sveiki {name}!",
+  "itemCount": "{count} vienības",
+  "selectLanguage": "Izvēlēties Valodu",
+  "changeLanguage": "Mainīt Valodu",
+  "currentLanguage": "Pašreizējā Valoda: {language}",
+  "translate": "Tulkot",
+  "autoTranslate": "Automātiskais Tulkojums",
+  "enterText": "Ievadiet tulkojamo tekstu"
+}

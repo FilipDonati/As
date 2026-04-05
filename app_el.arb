@@ -1,0 +1,13 @@
+{
+  "@@locale": "el",
+  "appTitle": "Πολυγλωσσική Εφαρμογή",
+  "welcome": "Καλωσορίσατε!",
+  "hello": "Γεια {name}!",
+  "itemCount": "{count} στοιχεία",
+  "selectLanguage": "Επιλέξτε Γλώσσα",
+  "changeLanguage": "Αλλαγή Γλώσσας",
+  "currentLanguage": "Τρέχουσα Γλώσσα: {language}",
+  "translate": "Μετάφραση",
+  "autoTranslate": "Αυτόματη Μετάφραση",
+  "enterText": "Εισαγάγετε κείμενο προς μετάφραση"
+}

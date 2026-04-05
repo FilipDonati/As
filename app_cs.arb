@@ -1,0 +1,13 @@
+{
+  "@@locale": "cs",
+  "appTitle": "Vícejazyčná Aplikace",
+  "welcome": "Vítejte!",
+  "hello": "Ahoj {name}!",
+  "itemCount": "{count} položek",
+  "selectLanguage": "Vybrat Jazyk",
+  "changeLanguage": "Změnit Jazyk",
+  "currentLanguage": "Aktuální Jazyk: {language}",
+  "translate": "Přeložit",
+  "autoTranslate": "Automatický Překlad",
+  "enterText": "Zadejte text k překladu"
+}

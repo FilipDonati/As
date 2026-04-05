@@ -1,0 +1,13 @@
+{
+  "@@locale": "ga",
+  "appTitle": "Aip Multiteangach",
+  "welcome": "Fáilte!",
+  "hello": "Dia dhuit {name}!",
+  "itemCount": "{count} míreanna",
+  "selectLanguage": "Roghnaigh Teanga",
+  "changeLanguage": "Athraigh Teanga",
+  "currentLanguage": "Teanga Reatha: {language}",
+  "translate": "Aistrigh",
+  "autoTranslate": "Uathoibriú Aistriúcháin",
+  "enterText": "Iontráil téacs le haistriú"
+}
